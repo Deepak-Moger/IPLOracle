@@ -1,0 +1,16 @@
+# IPL Oracle - Requirements
+# High-Performance Prediction & Betting Engine
+
+# Core ML
+pandas>=2.0.0
+numpy>=1.24.0
+scikit-learn>=1.3.0
+
+# Web Framework
+streamlit>=1.28.0
+
+# Visualization
+plotly>=5.18.0
+
+# Utilities
+pathlib2>=2.3.7; python_version < "3.4"
